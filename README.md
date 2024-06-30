@@ -27,6 +27,11 @@ Using the scraped data, various key insights are derived, including the total nu
 4. **Constituency with the Lowest Voter Turnout**
 5. **Candidate with the Highest Margin of Victory**
 6. **Party with the Most High-Margin Wins**
+7. **Constituency wise leading candidates list**
+8. **constituency wise majorities of the candidates**
+9. **Analysis for top 3 states as per number of constituencies**
+10. **Constituencies present in the respective top 3 states**
+11. **Number of seats won by parties in overall India**
 
 ## Contact
 if you have any queries or issues regarding the project you can contact me through **adityagowtham339#gmail.com** or raise an issue here.
