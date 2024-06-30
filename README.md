@@ -27,10 +27,6 @@ Using the scraped data, various key insights are derived, including the total nu
 4. **Constituency with the Lowest Voter Turnout**
 5. **Candidate with the Highest Margin of Victory**
 6. **Party with the Most High-Margin Wins**
-7. **State/UT with Maximum Participation**
-8. **State/UT with Minimum Participation**
-9. **Number of Female Candidates Who Won**
-10. **Number of First-Time Candidates Who Won**
 
 ## Contact
 if you have any queries or issues regarding the project you can contact me through **adityagowtham339#gmail.com** or raise an issue here.
