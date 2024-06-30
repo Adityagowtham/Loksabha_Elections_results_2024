@@ -5,6 +5,10 @@ Lok Sabha Election 2024
 
 This repository contains a Python script for scraping data from the Election Commission of India's website and a detailed analysis of the 2024 Lok Sabha Election results. The analysis focuses on extracting 10 key insights and presenting them in a Power BI dashboard for easy visualization and interpretation.
 
+**Open the `.pbix` file using Power BI Desktop to interact with the visualizations.**
+
+**Please refer this link to view the insights from dashboard : https://www.loom.com/share/f2100d0487374b1eb179748fb28aa7e3**
+
 ## Project Description
 
 The 2024 Lok Sabha Election Results Analysis project aims to provide a comprehensive analysis of the recent elections in India. The project includes:
